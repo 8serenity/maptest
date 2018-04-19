@@ -1,0 +1,13 @@
+C:\Users\Мухамедьян\Documents\Visual Studio 2017\Projects\maptest\maptest\bin\Debug\maptest.exe.config
+C:\Users\Мухамедьян\Documents\Visual Studio 2017\Projects\maptest\maptest\bin\Debug\maptest.exe
+C:\Users\Мухамедьян\Documents\Visual Studio 2017\Projects\maptest\maptest\bin\Debug\maptest.pdb
+C:\Users\Мухамедьян\Documents\Visual Studio 2017\Projects\maptest\maptest\bin\Debug\EntityFramework.dll
+C:\Users\Мухамедьян\Documents\Visual Studio 2017\Projects\maptest\maptest\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Мухамедьян\Documents\Visual Studio 2017\Projects\maptest\maptest\bin\Debug\EntityFramework.xml
+C:\Users\Мухамедьян\Documents\Visual Studio 2017\Projects\maptest\maptest\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Мухамедьян\Documents\Visual Studio 2017\Projects\maptest\maptest\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Мухамедьян\Documents\Visual Studio 2017\Projects\maptest\maptest\obj\Debug\maptest.csprojResolveAssemblyReference.cache
+C:\Users\Мухамедьян\Documents\Visual Studio 2017\Projects\maptest\maptest\obj\Debug\maptest.csproj.CoreCompileInputs.cache
+C:\Users\Мухамедьян\Documents\Visual Studio 2017\Projects\maptest\maptest\obj\Debug\maptest.csproj.CopyComplete
+C:\Users\Мухамедьян\Documents\Visual Studio 2017\Projects\maptest\maptest\obj\Debug\maptest.exe
+C:\Users\Мухамедьян\Documents\Visual Studio 2017\Projects\maptest\maptest\obj\Debug\maptest.pdb
